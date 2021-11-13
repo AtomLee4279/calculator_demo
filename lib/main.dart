@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-//修改系统计数器demo，增加一个简单新路由，继承自StatelessWidget：页面中间显示一句"This is new route"。
+//页面间跳转demo
+//修改系统计数器demo：增加一个简单新路由，继承自StatelessWidget：页面中间显示一句"This is new route"。
 //点击按钮跳转到新路由
 void main() {
   runApp(const MyApp());
